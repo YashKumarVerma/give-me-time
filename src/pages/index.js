@@ -10,7 +10,7 @@ import { Clock } from "../components/clock"
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Home" />
+    <Seo title="Time Machine" />
     <Clock />
   </Layout>
 )
