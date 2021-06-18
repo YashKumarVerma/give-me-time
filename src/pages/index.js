@@ -7,7 +7,6 @@ import Seo from "../components/seo"
 
 /** load logic components   */
 import { Clock } from "../components/clock"
-import { useLocalStorage } from "../hooks/useLocalStorage"
 
 const IndexPage = () => (
   <Layout>
